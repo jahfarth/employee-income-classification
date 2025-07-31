@@ -179,4 +179,28 @@ The research confirms that machine learning models can effectively capture compl
 
 ---
 
+# Project Screenshots
+
+Below is the complete workflow of the Employee Income Classification project, illustrated through stepwise screenshots.
+
+## Data Preprocessing
+![Screenshot 1](./Screenshot%202025-07-30%20212609.png)
+![Screenshot 2](./Screenshot%202025-07-30%20212630.png)
+![Screenshot 3](./Screenshot%202025-07-30%20212716.png)
+![Screenshot 4](./Screenshot%202025-07-30%20212759.png)
+![Screenshot 5](./Screenshot%202025-07-30%20212818.png)
+
+## Feature Engineering & Model Building
+![Screenshot 6](./Screenshot%202025-07-30%20212906.png)
+![Screenshot 7](./Screenshot%202025-07-30%20212943.png)
+![Screenshot 8](./Screenshot%202025-07-30%20213001.png)
+![Screenshot 9](./Screenshot%202025-07-30%20213026.png)
+![Screenshot 10](./Screenshot%202025-07-30%20213040.png)
+
+## Evaluation & Visualization
+![Screenshot 11](./Screenshot%202025-07-30%20213054.png)
+![Screenshot 12](./Screenshot%202025-07-30%20213231.png)
+![Screenshot 13](./Screenshot%202025-07-30%20213312.png)
+![Screenshot 14](./Screenshot%202025-07-30%20213342.png)
+
 *This project was completed as part of a comprehensive machine learning research initiative focused on demographic income prediction and its applications in business intelligence and social policy.*
